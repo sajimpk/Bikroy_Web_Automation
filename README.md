@@ -48,7 +48,7 @@ sudo systemctl restart jenkins
 ## Docker Run:
 
 ```
-sudo docker build -t web_test_automation .
+sudo docker build -t Bikroy_Web_Automation .
 
-sudo docker run --rm web_test_automation
+sudo docker run --rm Bikroy_Web_Automation
 ```
